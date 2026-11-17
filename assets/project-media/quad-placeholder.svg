@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061b31"/><stop offset="1" stop-color="#020914"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#12649a" stroke-opacity=".35"/></pattern></defs>
+<rect width="1200" height="720" fill="url(#bg)"/><rect width="1200" height="720" fill="url(#grid)"/>
+<g fill="none" stroke="#168cff" stroke-width="5" opacity=".9"><path d="M600 360L390 230M600 360L810 230M600 360L390 490M600 360L810 490"/><circle cx="600" cy="360" r="85"/><circle cx="390" cy="230" r="85"/><circle cx="810" cy="230" r="85"/><circle cx="390" cy="490" r="85"/><circle cx="810" cy="490" r="85"/></g>
+<g fill="#b9dfff" font-family="Arial,sans-serif" text-anchor="middle"><text x="600" y="625" font-size="34" letter-spacing="8">QUADCOPTER SIMULATION</text><text x="600" y="675" font-size="18" opacity=".7">Add quad0.png to display your project thumbnail</text></g>
+</svg>
